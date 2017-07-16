@@ -1,5 +1,5 @@
 jaxRs-learning
 ===============
-eclipse project add line!
+both the project add line!
 
 
