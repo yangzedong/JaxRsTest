@@ -1,3 +1,4 @@
 work
 classes
 *.class
+/WebRoot/

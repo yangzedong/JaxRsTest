@@ -1,6 +1,5 @@
 jaxRs-learning
 ===============
-add new line!hehe！
-add another line!
+both the project add line!
 
 
