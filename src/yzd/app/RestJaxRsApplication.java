@@ -9,7 +9,8 @@ import org.restlet.ext.jaxrs.JaxRsApplication;
  * http://www.lifeba.org
  */
 public class RestJaxRsApplication extends JaxRsApplication {
-
+	//构造子
+	//RestJaxRsApplication
 	public RestJaxRsApplication(Context context) {
         super(context);
         this.add(new StudentApplication());
