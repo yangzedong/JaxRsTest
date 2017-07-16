@@ -10,6 +10,7 @@ import org.restlet.ext.jaxrs.JaxRsApplication;
  */
 public class RestJaxRsApplication extends JaxRsApplication {
 
+	//构造方法
 	public RestJaxRsApplication(Context context) {
         super(context);
         this.add(new StudentApplication());
