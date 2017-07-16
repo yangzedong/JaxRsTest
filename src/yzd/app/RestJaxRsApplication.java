@@ -14,7 +14,11 @@ public class RestJaxRsApplication extends JaxRsApplication {
 	public RestJaxRsApplication(Context context) {
         super(context);
         //测试冲突，呵呵
+<<<<<<< HEAD
         //唉，又冲突要解决
+=======
+		//又冲突了
+>>>>>>> branch 'master' of https://github.com/yangzedong/JaxRsTest.git
         this.add(new StudentApplication());
     }
 
