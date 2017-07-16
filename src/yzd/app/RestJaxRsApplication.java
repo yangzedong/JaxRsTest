@@ -13,6 +13,7 @@ public class RestJaxRsApplication extends JaxRsApplication {
 	//RestJaxRsApplication
 	public RestJaxRsApplication(Context context) {
         super(context);
+        //测试冲突，呵呵
         this.add(new StudentApplication());
     }
 	
