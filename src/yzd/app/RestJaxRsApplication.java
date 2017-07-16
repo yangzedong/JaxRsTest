@@ -16,5 +16,5 @@ public class RestJaxRsApplication extends JaxRsApplication {
         //测试冲突，呵呵
         this.add(new StudentApplication());
     }
-	
+
 }
