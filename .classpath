@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/org.restlet.ext.jaxrs.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/org.restlet.ext.json.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/org.restlet.ext.servlet.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/org.restlet.jar" sourcepath="/restlet-jee-2.3.10/src"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javax.ws.rs.jar" sourcepath="C:/Users/Windows7/AppData/Local/Temp/.org.sf.feeling.decompiler1499263202966/source/jsr311-api-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/org.restlet.ext.jackson.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.csv.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.jaxb.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.jsonschema.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.smile.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.xml.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/com.fasterxml.jackson.yaml.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
